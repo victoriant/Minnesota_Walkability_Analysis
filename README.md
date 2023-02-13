@@ -11,15 +11,15 @@ The data prep can be found in the file "Walking Index" jupyter notebook.  Raw da
 
 ## Contributors 
 
-Hampton Hughes
-Daniel Lee
-Abdulrahman Issa
-Sunita Kumari
-Tanner Victorian
+Hampton Hughes <br>
+Daniel Lee <br>
+Abdulrahman Issa <br>
+Sunita Kumari <br>
+Tanner Victorian <br>
 
 ## Sources
 
-EPA Walkability: https://www.epa.gov/smartgrowth/national-walkability-index-user-guide-and-methodology
+EPA Walkability: https://www.epa.gov/smartgrowth/national-walkability-index-user-guide-and-methodology <br>
 US County Health Rankings:
     https://www.countyhealthrankings.org/explore-health-rankings/minnesota/data-and-resources
     
